@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHdd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hdd>
+    <Produttore>1</Produttore>
+    <Dimensione>1</Dimensione>
+    <Prezzo>1</Prezzo>
+    <NumeroDiSerie>1</NumeroDiSerie>
+    <Wattaggio>1</Wattaggio>
+    <SpazioDiArchiviazione>1</SpazioDiArchiviazione>
+    <VelocitàTrasferimentoDati>1</VelocitàTrasferimentoDati>
+    <DiametroDisco>1</DiametroDisco>
+    <Volume>1</Volume>
+    <Rpm>1</Rpm>
+  </Hdd>
+</ArrayOfHdd>

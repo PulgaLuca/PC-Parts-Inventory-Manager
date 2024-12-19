@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlimentatore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alimentatore NConnettoriCpu="0">
+    <Produttore>7</Produttore>
+    <Dimensione>7</Dimensione>
+    <Prezzo>7</Prezzo>
+    <NumeroDiSerie>7</NumeroDiSerie>
+    <Wattaggio>7</Wattaggio>
+    <NConnettoriMobo>7</NConnettoriMobo>
+    <NPciExpress>7</NPciExpress>
+    <NSata>7</NSata>
+  </Alimentatore>
+</ArrayOfAlimentatore>

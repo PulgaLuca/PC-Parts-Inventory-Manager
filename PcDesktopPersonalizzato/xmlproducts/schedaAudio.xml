@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSchedaAudio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SchedaAudio>
+    <Produttore>4</Produttore>
+    <Dimensione>4</Dimensione>
+    <Prezzo>4</Prezzo>
+    <NumeroDiSerie>4</NumeroDiSerie>
+    <Wattaggio>4</Wattaggio>
+    <BitRate>4</BitRate>
+    <Db>4</Db>
+    <Impianto>4</Impianto>
+  </SchedaAudio>
+</ArrayOfSchedaAudio>

@@ -1,0 +1,11 @@
+HDD:
+Dimensione: 9
+Numero Di Serie: 9
+Prezzo: 9
+Produttore: 9
+Wattaggio: 9
+Diametro disco: 9
+Rpm: 9
+Spazio di archiviazione: 9
+Velocità traferimento dati: 9
+Volume: 9

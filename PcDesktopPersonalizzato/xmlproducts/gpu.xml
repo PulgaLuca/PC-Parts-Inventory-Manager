@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGpu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gpu>
+    <Produttore>3</Produttore>
+    <Dimensione>3</Dimensione>
+    <Prezzo>3</Prezzo>
+    <NumeroDiSerie>3</NumeroDiSerie>
+    <Wattaggio>3</Wattaggio>
+    <Cores>3</Cores>
+    <Frequency>3</Frequency>
+    <TFLOPS>3</TFLOPS>
+  </Gpu>
+</ArrayOfGpu>

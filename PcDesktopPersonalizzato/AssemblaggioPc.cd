@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PcDesktopPersonalizzato.Componente">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAgAAAAAAgAIAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Componente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Case">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Case.TipoDiCase" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Case.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAgAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Case.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Alimentatore">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Alimentatore.FormFactor" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Alimentatore.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PcDesktopPersonalizzato.Alimentatore.Modular" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Alimentatore.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAABACAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Alimentatore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.MemoriaVolatile">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\MemoriaVolatile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Ram">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Ram.Dissipatore" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Ram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PcDesktopPersonalizzato.Ram.Modulo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Ram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="PcDesktopPersonalizzato.Ram.Tipologia" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Ram.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Ram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Gpu">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Gpu.Brand" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Gpu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Gpu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Processore">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Processore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Cpu">
+    <Position X="15.75" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Cpu.Brand" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Cpu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAQAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Cpu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Ssd">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Ssd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.Hdd">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.Hdd.Interface" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Hdd.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\Hdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.SchedaMadre">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.SchedaMadre.Socket" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\SchedaMadre.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAEQAAAAAAAABAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\SchedaMadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.MemoriaDiMassa">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PcDesktopPersonalizzato.MemoriaDiMassa.Porta" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\MemoriaDiMassa.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAgAAAAAAAAAAAACAAAIAAAAAAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\MemoriaDiMassa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PcDesktopPersonalizzato.SchedaAudio">
+    <Position X="17" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAEAAAAAAAgAAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>C:\Users\Luca\source\repos\SharedProjectPcDesktopItems\SchedaAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

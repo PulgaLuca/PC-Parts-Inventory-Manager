@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Case>
+    <Produttore>8</Produttore>
+    <Dimensione>8</Dimensione>
+    <Prezzo>8</Prezzo>
+    <NumeroDiSerie>8</NumeroDiSerie>
+    <Wattaggio>0</Wattaggio>
+    <nVentole>8</nVentole>
+    <Colore>8</Colore>
+  </Case>
+</ArrayOfCase>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSchedaMadre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SchedaMadre>
+    <Produttore>pulga&amp;co</Produttore>
+    <Dimensione>15x56x89</Dimensione>
+    <Prezzo>78</Prezzo>
+    <NumeroDiSerie>19753</NumeroDiSerie>
+    <Wattaggio>15</Wattaggio>
+    <NSlotRam>16</NSlotRam>
+    <Chipset>pog</Chipset>
+    <SchedaVideoIntegrata>false</SchedaVideoIntegrata>
+    <AudioIntegrato>true</AudioIntegrato>
+    <Rete>lan</Rete>
+  </SchedaMadre>
+  <SchedaMadre>
+    <Produttore>5</Produttore>
+    <Dimensione>5</Dimensione>
+    <Prezzo>5</Prezzo>
+    <NumeroDiSerie>5</NumeroDiSerie>
+    <Wattaggio>5</Wattaggio>
+    <NSlotRam>5</NSlotRam>
+    <Chipset>7</Chipset>
+    <SchedaVideoIntegrata>false</SchedaVideoIntegrata>
+    <AudioIntegrato>true</AudioIntegrato>
+    <Rete>5</Rete>
+  </SchedaMadre>
+</ArrayOfSchedaMadre>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>d10cc713-9fc9-4bab-be89-85939a38007c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SharedProjectPcDesktopItems</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Alimentatore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Case.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Componente.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Cpu.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Gpu.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Hdd.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MemoriaDiMassa.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MemoriaVolatile.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Processore.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Ram.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SchedaAudio.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SchedaMadre.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Ssd.cs" />
+  </ItemGroup>
+</Project>

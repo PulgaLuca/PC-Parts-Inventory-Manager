@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCpu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cpu>
+    <Produttore>9</Produttore>
+    <Dimensione>9</Dimensione>
+    <Prezzo>9</Prezzo>
+    <NumeroDiSerie>9</NumeroDiSerie>
+    <Wattaggio>0</Wattaggio>
+    <Cores>9</Cores>
+    <Frequency>9</Frequency>
+    <Serie>9</Serie>
+    <CpuSockets>9</CpuSockets>
+    <Thread>9</Thread>
+    <TPD>9</TPD>
+  </Cpu>
+</ArrayOfCpu>
